@@ -157,7 +157,6 @@ namespace Exercícios
                             peixeContador++;
                         }
 
-
                         Console.WriteLine("Insira o nome do seu primeiro animal de estimação: ");
                         animalNome = Console.ReadLine();
                         Console.WriteLine("Insira o tipo do seu animal de estimação: ");
